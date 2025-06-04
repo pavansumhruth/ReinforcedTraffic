@@ -1,0 +1,7 @@
+{
+    "agent": "PPO\u2011live",
+    "avg_waiting_time": 67368.56756756757,
+    "avg_travel_time": 534.7913851351351,
+    "throughput": 1184,
+    "teleport_count": 287
+}

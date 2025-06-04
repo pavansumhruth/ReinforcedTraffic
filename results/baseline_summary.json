@@ -1,0 +1,8 @@
+{
+    "agent": "FixedTime-NativeProgram",
+    "avg_waiting_time": 80536.44763513513,
+    "avg_travel_time": 637.5456081081081,
+    "throughput": 1184,
+    "teleport_count": 341,
+    "total_reward": 0
+}
